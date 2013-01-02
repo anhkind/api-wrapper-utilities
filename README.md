@@ -1,4 +1,4 @@
-# Wrapper
+# API Wrapper Utilities
 
 TODO: Write a gem description
 
