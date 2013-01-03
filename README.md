@@ -1,4 +1,4 @@
-# API Wrapper Utilities
+# API Wrapper Utilities [![Build Status](https://travis-ci.org/anhkind/api-wrapper-utilities.png?branch=develop)](https://travis-ci.org/anhkind/api-wrapper-utilities)
 
 API Wrapper Utilities is a set of generic utilities to implement an API wrapper.
 
