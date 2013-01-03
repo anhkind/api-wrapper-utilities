@@ -1,4 +1,4 @@
-require_relative "setup"
+SPEC_ROOT = File.expand_path("..", File.dirname(__FILE__))
 Dir[File.join(SPEC_ROOT, "spec/support/**/*.rb")].each { |f| require f }
 
 require "api-wrapper-utilities"
