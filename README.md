@@ -1,6 +1,6 @@
 # API Wrapper Utilities
 
-TODO: Write a gem description
+API Wrapper Utilities is a set of generic utilities to implement an API wrapper.
 
 ## Installation
 
