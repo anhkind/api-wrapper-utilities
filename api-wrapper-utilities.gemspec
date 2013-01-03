@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'api-wrapper-utilities/version'
+require 'wrapper/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "api-wrapper-utilities"
@@ -19,5 +19,4 @@ Gem::Specification.new do |gem|
 
   gem.add_development_dependency "rake"
   gem.add_development_dependency "rspec", ">= 2"
-  gem.add_development_dependency "vcr",   ">= 2"
 end
